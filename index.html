@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Presto hotels · Florida Volleyball Challenge 2027</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="top">
+    <h1 id="title">Presto hotels</h1>
+    <p class="sub" id="subtitle">Loading…</p>
+  </header>
+  <div class="controls">
+    <input type="search" id="q" placeholder="Search name, city, address…" />
+    <select id="avail">
+      <option value="">All availability</option>
+      <option value="AVAILABLE">Available</option>
+      <option value="WAITLIST">Waitlist</option>
+      <option value="SOLD_OUT">Sold out</option>
+      <option value="NOT_AVAILABLE">Not available</option>
+    </select>
+    <select id="pref">
+      <option value="">Any preferred</option>
+      <option value="1">Preferred only</option>
+      <option value="0">Not preferred</option>
+    </select>
+    <select id="sort">
+      <option value="distance">Sort: distance</option>
+      <option value="price">Sort: $/night</option>
+      <option value="total">Sort: stay total</option>
+      <option value="rating">Sort: rating</option>
+      <option value="name">Sort: name</option>
+      <option value="avail">Sort: availability</option>
+    </select>
+    <label class="view-toggle" style="font-size:0.85rem;color:var(--muted);display:flex;align-items:center;gap:0.35rem;">
+      <input type="checkbox" id="cardsOnly" /> Cards
+    </label>
+  </div>
+  <div class="stats" id="stats"></div>
+  <div class="wrap">
+    <table class="board" id="table">
+      <thead>
+        <tr>
+          <th data-sort="name"></th>
+          <th data-sort="name">Hotel</th>
+          <th data-sort="distance">Dist</th>
+          <th data-sort="price">$/night</th>
+          <th data-sort="total">Stay total</th>
+          <th data-sort="avail">Status</th>
+          <th data-sort="rating">★</th>
+          <th>Link</th>
+        </tr>
+      </thead>
+      <tbody id="tbody"></tbody>
+    </table>
+    <div class="cards" id="cards"></div>
+    <div class="empty" id="empty" hidden>No hotels match.</div>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>
