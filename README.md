@@ -49,4 +49,4 @@ python3 -m http.server 8770
 
 Pages: https://mjlembo88.github.io/presto-hotels-board/
 
-Sort/filter/search table + mobile cards. Links open Presto. **Read-only — no bookings.**
+Sort/filter/search table + mobile cards + **Map** tab (Leaflet pins, filters apply, venue marker). `?view=map` opens map. Links open Presto. **Read-only — no bookings.**

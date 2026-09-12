@@ -11,9 +11,20 @@
   const fmtMi = (n) => (n == null ? "—" : `${Number(n).toFixed(1)} mi`);
 
   const availRank = { AVAILABLE: 0, WAITLIST: 1, SOLD_OUT: 2, NOT_AVAILABLE: 3 };
+  const pinColor = {
+    AVAILABLE: "#3ecf8e",
+    WAITLIST: "#f0b429",
+    SOLD_OUT: "#f07178",
+    NOT_AVAILABLE: "#f07178",
+  };
 
   let data = null;
   let rows = [];
+  let view = "list";
+  let map = null;
+  let hotelLayer = null;
+  let venueMarker = null;
+  let mapReady = false;
 
   const el = {
     title: document.getElementById("title"),
@@ -28,7 +39,20 @@
     table: document.getElementById("table"),
     empty: document.getElementById("empty"),
     cardsOnly: document.getElementById("cardsOnly"),
+    cardsToggle: document.getElementById("cardsToggle"),
+    listWrap: document.getElementById("listWrap"),
+    mapWrap: document.getElementById("mapWrap"),
+    tabList: document.getElementById("tabList"),
+    tabMap: document.getElementById("tabMap"),
   };
+
+  function escapeHtml(s) {
+    return String(s)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
 
   function filtered() {
     const q = (el.q.value || "").trim().toLowerCase();
@@ -125,17 +149,98 @@
     </article>`;
   }
 
-  function escapeHtml(s) {
-    return String(s)
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;");
+  function pinIcon(color) {
+    return L.divIcon({
+      className: "pin-icon",
+      html: `<div class="pin-bubble" style="background:${color}"></div>`,
+      iconSize: [14, 14],
+      iconAnchor: [7, 7],
+      popupAnchor: [0, -8],
+    });
+  }
+
+  function popupHtml(h) {
+    const addr = [h.address, h.city, h.state, h.postal].filter(Boolean).join(", ");
+    return `<div>
+      <strong>${escapeHtml(h.name || "Hotel")}</strong><br/>
+      <span class="badge ${h.availability || ""}">${escapeHtml((h.availability || "—").replace("_", " "))}</span>
+      ${fmtMi(h.distanceMi)} · ${money(h.avgPerNight, h.currency)}/night<br/>
+      <span style="color:#9aabbf;font-size:0.8rem">${escapeHtml(addr)}</span><br/>
+      ${h.link ? `<a href="${h.link}" target="_blank" rel="noopener">Open on Presto</a>` : ""}
+    </div>`;
+  }
+
+  function ensureMap() {
+    if (mapReady) return;
+    map = L.map("map", { zoomControl: true, scrollWheelZoom: true });
+    L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
+      attribution: '&copy; OpenStreetMap &copy; CARTO',
+      maxZoom: 19,
+    }).addTo(map);
+    hotelLayer = L.layerGroup().addTo(map);
+    const se = (data && data.search) || {};
+    if (se.latitude != null && se.longitude != null) {
+      venueMarker = L.circleMarker([se.latitude, se.longitude], {
+        radius: 9,
+        color: "#fff",
+        weight: 2,
+        fillColor: "#3d9cf0",
+        fillOpacity: 1,
+      })
+        .bindPopup(`<strong>Venue</strong><br/>${escapeHtml(se.formattedAddress || "Event venue")}`)
+        .addTo(map);
+    }
+    mapReady = true;
+  }
+
+  function renderMap(list) {
+    ensureMap();
+    hotelLayer.clearLayers();
+    const bounds = [];
+    const se = (data && data.search) || {};
+    if (se.latitude != null && se.longitude != null) {
+      bounds.push([se.latitude, se.longitude]);
+    }
+    list.forEach((h) => {
+      if (h.lat == null || h.lng == null) return;
+      const color = pinColor[h.availability] || "#9aabbf";
+      const m = L.marker([h.lat, h.lng], {
+        icon: pinIcon(color),
+        title: h.name || "Hotel",
+      }).bindPopup(popupHtml(h));
+      m.addTo(hotelLayer);
+      bounds.push([h.lat, h.lng]);
+    });
+    if (bounds.length) {
+      map.fitBounds(bounds, { padding: [28, 28], maxZoom: 12 });
+    } else if (se.latitude != null) {
+      map.setView([se.latitude, se.longitude], 11);
+    }
+    setTimeout(() => map.invalidateSize(), 50);
+  }
+
+  function setView(next) {
+    view = next;
+    const isMap = view === "map";
+    el.listWrap.hidden = isMap;
+    el.mapWrap.hidden = !isMap;
+    el.tabList.classList.toggle("active", !isMap);
+    el.tabMap.classList.toggle("active", isMap);
+    el.tabList.setAttribute("aria-selected", String(!isMap));
+    el.tabMap.setAttribute("aria-selected", String(isMap));
+    el.cardsToggle.style.display = isMap ? "none" : "flex";
+    document.body.classList.toggle("map-mode", isMap);
+    render();
   }
 
   function render() {
     const list = filtered();
     renderStats(list);
+    if (view === "map") {
+      renderMap(list);
+      el.empty.hidden = true;
+      return;
+    }
     el.tbody.innerHTML = list.map(rowHtml).join("");
     el.cards.innerHTML = list.map(cardHtml).join("");
     el.empty.hidden = list.length > 0;
@@ -152,12 +257,20 @@
     el.cardsOnly.addEventListener(ev, render);
   });
 
+  el.tabList.addEventListener("click", () => setView("list"));
+  el.tabMap.addEventListener("click", () => setView("map"));
+
   document.querySelectorAll("th[data-sort]").forEach((th) => {
     th.addEventListener("click", () => {
       el.sort.value = th.dataset.sort;
       render();
     });
   });
+
+  // deep-link ?view=map
+  if (new URLSearchParams(location.search).get("view") === "map") {
+    view = "map";
+  }
 
   fetch("hotels.json")
     .then((r) => r.json())
@@ -176,7 +289,7 @@
       ]
         .filter(Boolean)
         .join(" · ");
-      render();
+      setView(view);
     })
     .catch((e) => {
       el.subtitle.textContent = "Failed to load hotels.json: " + e.message;

@@ -4,6 +4,7 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Presto hotels · Florida Volleyball Challenge 2027</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -33,12 +34,16 @@
       <option value="name">Sort: name</option>
       <option value="avail">Sort: availability</option>
     </select>
-    <label class="view-toggle" style="font-size:0.85rem;color:var(--muted);display:flex;align-items:center;gap:0.35rem;">
+    <div class="tabs" role="tablist" aria-label="View">
+      <button type="button" class="tab active" id="tabList" data-view="list" aria-selected="true">List</button>
+      <button type="button" class="tab" id="tabMap" data-view="map" aria-selected="false">Map</button>
+    </div>
+    <label class="view-toggle" id="cardsToggle" style="font-size:0.85rem;color:var(--muted);display:flex;align-items:center;gap:0.35rem;">
       <input type="checkbox" id="cardsOnly" /> Cards
     </label>
   </div>
   <div class="stats" id="stats"></div>
-  <div class="wrap">
+  <div class="wrap" id="listWrap">
     <table class="board" id="table">
       <thead>
         <tr>
@@ -57,6 +62,16 @@
     <div class="cards" id="cards"></div>
     <div class="empty" id="empty" hidden>No hotels match.</div>
   </div>
+  <div class="map-wrap" id="mapWrap" hidden>
+    <div id="map" role="application" aria-label="Hotel map"></div>
+    <p class="map-legend">
+      <span class="dot ok"></span> Available
+      <span class="dot warn"></span> Waitlist
+      <span class="dot bad"></span> Sold out / N/A
+      <span class="dot venue"></span> Venue
+    </p>
+  </div>
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
   <script src="app.js"></script>
 </body>
 </html>
