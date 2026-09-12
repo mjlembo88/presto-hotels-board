@@ -173,10 +173,14 @@
   function ensureMap() {
     if (mapReady) return;
     map = L.map("map", { zoomControl: true, scrollWheelZoom: true });
-    L.tileLayer("https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png", {
-      attribution: '&copy; OpenStreetMap &copy; CARTO',
-      maxZoom: 19,
-    }).addTo(map);
+    // Standing rule: no-API-key basemap only (never Carto/Mapbox/Google keyed tiles)
+    L.tileLayer(
+      "https://server.arcgisonline.com/ArcGIS/rest/services/Canvas/World_Dark_Gray_Base/MapServer/tile/{z}/{y}/{x}",
+      {
+        attribution: "Tiles &copy; Esri",
+        maxZoom: 16,
+      }
+    ).addTo(map);
     hotelLayer = L.layerGroup().addTo(map);
     const se = (data && data.search) || {};
     if (se.latitude != null && se.longitude != null) {
