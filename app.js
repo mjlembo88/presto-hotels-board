@@ -272,26 +272,91 @@
     view = "map";
   }
 
-  fetch("hotels.json")
-    .then((r) => r.json())
-    .then((j) => {
+  let dataFingerprint = "";
+  let loadGen = 0;
+  let initialLoad = true;
+
+  function fingerprint(j) {
+    const n = (j.hotels || []).length;
+    return `${j.scrapedAt || ""}|${n}|${(j.source && j.source.shopKeyOut) || ""}`;
+  }
+
+  function fmtUpdated(iso) {
+    if (!iso) return null;
+    try {
+      const d = new Date(iso);
+      if (Number.isNaN(d.getTime())) return `Updated ${iso.slice(0, 16).replace("T", " ")}Z`;
+      return `Updated ${d.toLocaleString(undefined, {
+        month: "short",
+        day: "numeric",
+        hour: "numeric",
+        minute: "2-digit",
+      })}`;
+    } catch {
+      return `Updated ${iso}`;
+    }
+  }
+
+  function applySubtitle(j) {
+    const ev = j.event || {};
+    const se = j.search || {};
+    el.title.textContent = ev.name || "Presto hotels";
+    el.subtitle.textContent = [
+      se.startDate && se.endDate ? `${se.startDate} → ${se.endDate}` : null,
+      ev.venueName,
+      fmtUpdated(j.scrapedAt),
+      "read-only · no booking",
+    ]
+      .filter(Boolean)
+      .join(" · ");
+  }
+
+  async function loadHotels({ silent = false } = {}) {
+    const gen = ++loadGen;
+    const url = `hotels.json?t=${Date.now()}`;
+    try {
+      const r = await fetch(url, { cache: "no-store", headers: { Accept: "application/json" } });
+      if (!r.ok) throw new Error(`HTTP ${r.status}`);
+      const j = await r.json();
+      if (gen !== loadGen) return; // stale response
+      const fp = fingerprint(j);
+      if (fp === dataFingerprint && data) {
+        applySubtitle(j); // refresh "Updated …" wording only
+        return;
+      }
+      dataFingerprint = fp;
       data = j;
       rows = j.hotels || [];
-      const ev = j.event || {};
-      const se = j.search || {};
-      el.title.textContent = ev.name || "Presto hotels";
-      el.subtitle.textContent = [
-        se.startDate && se.endDate ? `${se.startDate} → ${se.endDate}` : null,
-        ev.venueName,
-        se.formattedAddress,
-        j.scrapedAt ? `scraped ${j.scrapedAt.slice(0, 16).replace("T", " ")}Z` : null,
-        "read-only · no booking",
-      ]
-        .filter(Boolean)
-        .join(" · ");
-      setView(view);
-    })
-    .catch((e) => {
-      el.subtitle.textContent = "Failed to load hotels.json: " + e.message;
-    });
+      applySubtitle(j);
+      if (initialLoad) {
+        initialLoad = false;
+        setView(view);
+      } else {
+        render(); // keep filters / sort / map tab
+      }
+    } catch (e) {
+      if (!silent && !data) {
+        el.subtitle.textContent = "Failed to load hotels.json: " + e.message;
+      }
+    }
+  }
+
+  loadHotels();
+
+  window.addEventListener("pageshow", (ev) => {
+    // bfcache restore or normal show — always re-check overnight updates
+    if (ev.persisted || document.visibilityState === "visible") {
+      loadHotels({ silent: true });
+    }
+  });
+
+  document.addEventListener("visibilitychange", () => {
+    if (document.visibilityState === "visible") {
+      loadHotels({ silent: true });
+    }
+  });
+
+  window.addEventListener("focus", () => {
+    loadHotels({ silent: true });
+  });
 })();
