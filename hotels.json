@@ -1,9 +1,9 @@
 {
-  "scrapedAt": "2026-09-12T22:58:26.852735+00:00",
+  "scrapedAt": "2026-09-13T13:20:09.007815+00:00",
   "source": {
     "eventId": "dfc7b549-7bf9-4ba0-b048-eefe3613ba7a",
     "shopKeyIn": "6aa5d8d624a92930e04eebbe",
-    "shopKeyOut": "6aa5d91124a92930e04eebd7",
+    "shopKeyOut": "6aa6a30711ad652792154699",
     "searchUrl": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d8d624a92930e04eebbe/search",
     "api": "https://prestoservice.eventpipe.com/events/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/hotels"
   },
@@ -80,7 +80,7 @@
       "postal": "32819",
       "lat": 28.46310043334961,
       "lng": -81.44657135009766,
-      "thumb": "https://storage.googleapis.com/eventpipe/fcbc3b41-1157-4a2a-84f8-b74cf733e8ff.jpeg",
+      "thumb": "https://storage.googleapis.com/eventpipe/dadbed20-8e8b-478e-8775-190d393473e5.jpeg",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Apartment Style",
@@ -127,7 +127,7 @@
         }
       ],
       "roomCount": 3,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/459847ab-0055-4a6f-982b-31ce8d77758a",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/459847ab-0055-4a6f-982b-31ce8d77758a",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -204,7 +204,7 @@
         }
       ],
       "roomCount": 3,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/93f5749d-a20f-4080-ad44-86b48e64f7e6",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/93f5749d-a20f-4080-ad44-86b48e64f7e6",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -264,7 +264,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/927396ac-cb05-45fe-bd52-91e1ec0041bc",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/927396ac-cb05-45fe-bd52-91e1ec0041bc",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -335,7 +335,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/d7d166a8-8b20-4c54-b601-e3c23df38a71",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/d7d166a8-8b20-4c54-b601-e3c23df38a71",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -399,7 +399,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/f65aaec0-b9f4-4992-9b17-b7f54e62a78d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/f65aaec0-b9f4-4992-9b17-b7f54e62a78d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -429,7 +429,7 @@
       "postal": "32819",
       "lat": 28.447216,
       "lng": -81.471754,
-      "thumb": "https://storage.googleapis.com/eventpipe/1373b21f-e77c-4a8a-9115-d5f0b5a9c508.jpg",
+      "thumb": "https://storage.googleapis.com/eventpipe/dbd0cf1a-231e-48b2-860a-fb384e7a3332.jpg",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -454,7 +454,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/719936b8-f0dd-4fca-8fcc-0eedc0b71770",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/719936b8-f0dd-4fca-8fcc-0eedc0b71770",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -484,7 +484,7 @@
       "postal": "32819",
       "lat": 28.4539852142334,
       "lng": -81.4715347290039,
-      "thumb": "https://storage.googleapis.com/eventpipe/635e346b-b3be-48b1-8a8a-4ab913d78735.jpg",
+      "thumb": "https://storage.googleapis.com/eventpipe/292b7f43-05c1-433e-9347-1b6ef213ca13.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "ATM On-site",
@@ -518,7 +518,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/05aed265-4dca-4b9f-baa5-119740642f41",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/05aed265-4dca-4b9f-baa5-119740642f41",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -576,7 +576,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/d5f77826-650f-44ce-b07f-62902aeb019f",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/d5f77826-650f-44ce-b07f-62902aeb019f",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -606,7 +606,7 @@
       "postal": "32819",
       "lat": 28.45328712463379,
       "lng": -81.4676513671875,
-      "thumb": "https://storage.googleapis.com/eventpipe/7ac53c55-18e6-4d4d-8611-f0563d6eeb67.jpg",
+      "thumb": "https://storage.googleapis.com/eventpipe/eaef2198-feda-40cc-bbf8-7a2f4cdabeeb.jfif",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -634,7 +634,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/55134eed-9095-4097-921a-17e41ae8dbec",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/55134eed-9095-4097-921a-17e41ae8dbec",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -692,7 +692,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/b66527db-15e4-4e72-bad9-a49f784ff07a",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/b66527db-15e4-4e72-bad9-a49f784ff07a",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -765,7 +765,7 @@
         }
       ],
       "roomCount": 3,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/a5928e82-b777-4daf-8b56-dd3c5c43fe2e",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/a5928e82-b777-4daf-8b56-dd3c5c43fe2e",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -823,7 +823,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/81417eb7-bbbb-4cbb-b58d-dde511d98af6",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/81417eb7-bbbb-4cbb-b58d-dde511d98af6",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -881,7 +881,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/8fc7bc55-a987-4851-8aad-a950d833647d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/8fc7bc55-a987-4851-8aad-a950d833647d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -947,7 +947,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/609f8134-89c3-45f6-883b-c2aca36afbf7",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/609f8134-89c3-45f6-883b-c2aca36afbf7",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -977,7 +977,7 @@
       "postal": "32821",
       "lat": 28.417619705200195,
       "lng": -81.46428680419922,
-      "thumb": "https://storage.googleapis.com/eventpipe/69ef45f4-995a-4504-97dc-631228ced951.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/d9ca3665-d5d9-4daa-b42c-4453899e21fd.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Baggage Storage",
@@ -1013,7 +1013,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/46c549c5-b47c-46b2-87f6-538d23ae46ae",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/46c549c5-b47c-46b2-87f6-538d23ae46ae",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1043,7 +1043,7 @@
       "postal": "32819-5207",
       "lat": 28.4511775970459,
       "lng": -81.4769287109375,
-      "thumb": "https://storage.googleapis.com/eventpipe/ff7a63cc-e24d-4abf-a849-7ea46c36394a.jpg",
+      "thumb": "https://storage.googleapis.com/eventpipe/043e04eb-5504-4daa-9dfd-82f0891de1c8.jpg",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -1076,7 +1076,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/6014cad2-8c1b-4429-8cc9-b8bfc5253ac0",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/6014cad2-8c1b-4429-8cc9-b8bfc5253ac0",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1128,7 +1128,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/f5649d0b-48ce-4507-b5ea-40c93200b4c0",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/f5649d0b-48ce-4507-b5ea-40c93200b4c0",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1158,7 +1158,7 @@
       "postal": "32819",
       "lat": 28.431711196899414,
       "lng": -81.4485092163086,
-      "thumb": "https://storage.googleapis.com/eventpipe/1cc79c14-db7f-4ed1-968b-20b761481c70.jpg",
+      "thumb": "https://storage.googleapis.com/eventpipe/ac6e2050-fbf7-4e23-abe8-7698de9ef401.jpg",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -1188,7 +1188,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/6188c1f7-2e92-4495-bcf4-6391bda92d1d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/6188c1f7-2e92-4495-bcf4-6391bda92d1d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1255,7 +1255,7 @@
         }
       ],
       "roomCount": 3,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/3901b96a-bd77-44c3-ba0d-0a5765903537",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/3901b96a-bd77-44c3-ba0d-0a5765903537",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1320,7 +1320,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/16a129cc-1812-429d-a491-9dbc6521e84a",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/16a129cc-1812-429d-a491-9dbc6521e84a",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1386,7 +1386,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/b09fbc3a-ccc8-41cc-9143-4a6365d01785",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/b09fbc3a-ccc8-41cc-9143-4a6365d01785",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1416,7 +1416,7 @@
       "postal": "32819",
       "lat": 28.461408615112305,
       "lng": -81.46830749511719,
-      "thumb": "https://storage.googleapis.com/eventpipe/adbcc153-1d05-4f30-959c-1765c3f3adc2.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/1ad3a798-3500-4102-b063-5e3cec83ed3b.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -1437,7 +1437,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/a1aabd04-eccd-4a08-90af-13e654f2cdcb",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/a1aabd04-eccd-4a08-90af-13e654f2cdcb",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1502,7 +1502,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/ece64855-6f6b-4cb6-bc28-fba8498e9661",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/ece64855-6f6b-4cb6-bc28-fba8498e9661",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1532,7 +1532,7 @@
       "postal": "32821",
       "lat": 28.40983009338379,
       "lng": -81.47049713134766,
-      "thumb": "https://storage.googleapis.com/eventpipe/3efac72c-3d2f-4afc-aa98-4694a36e5665.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/69b20d6d-9198-4881-b333-8d400307661d.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -1564,7 +1564,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/5311c83e-5bf9-4da7-9b22-58479a18d55b",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/5311c83e-5bf9-4da7-9b22-58479a18d55b",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1594,7 +1594,7 @@
       "postal": "32821",
       "lat": 28.410755157470703,
       "lng": -81.45458984375,
-      "thumb": "https://storage.googleapis.com/eventpipe/dd6caefc-e213-4d73-b553-8da534cf3124.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/437bae20-ed66-4756-a623-e18f5f9f2858.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -1626,7 +1626,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/1deb359b-4c01-449f-a2f2-6f8594a45197",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/1deb359b-4c01-449f-a2f2-6f8594a45197",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1682,7 +1682,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/955acb85-1e53-4807-a135-f69bceb70d43",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/955acb85-1e53-4807-a135-f69bceb70d43",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1734,7 +1734,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/604f21d2-ac70-4965-80aa-d55c65b95568",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/604f21d2-ac70-4965-80aa-d55c65b95568",
       "customBanner": null
     },
     {
@@ -1793,7 +1793,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/e8e61d29-669f-49a0-a2d8-8a0c3f7d8c58",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/e8e61d29-669f-49a0-a2d8-8a0c3f7d8c58",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1853,7 +1853,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/710959a0-0af8-4559-be41-32cd9f853d03",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/710959a0-0af8-4559-be41-32cd9f853d03",
       "customBanner": null
     },
     {
@@ -1883,7 +1883,7 @@
       "postal": "32819",
       "lat": 28.43478775024414,
       "lng": -81.45218658447266,
-      "thumb": "https://storage.googleapis.com/eventpipe/a61fdafe-50d7-401f-848c-d3b07d60ed2a.jpg",
+      "thumb": "https://storage.googleapis.com/eventpipe/6120cb59-b712-4880-a374-9e9a042d99db.jpg",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -1907,7 +1907,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/0b56528d-c99b-4436-ab95-0fadaedc87ed",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/0b56528d-c99b-4436-ab95-0fadaedc87ed",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -1937,7 +1937,7 @@
       "postal": "32821",
       "lat": 28.40745735168457,
       "lng": -81.47196960449219,
-      "thumb": "https://storage.googleapis.com/eventpipe/1bdd566a-fc37-4de1-84a0-6f3b7979cdd6.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/7f0511c5-0218-4d00-9e8d-b24c838d3236.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Fitness Facility",
@@ -1963,7 +1963,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/f0775ebd-d180-49b0-a4a7-64fb47c8c4da",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/f0775ebd-d180-49b0-a4a7-64fb47c8c4da",
       "customBanner": null
     },
     {
@@ -2024,7 +2024,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/addcfdec-455f-491f-be14-dab7f054ee37",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/addcfdec-455f-491f-be14-dab7f054ee37",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2054,7 +2054,7 @@
       "postal": "32819-8205",
       "lat": 28.463109970092773,
       "lng": -81.46134185791016,
-      "thumb": "https://storage.googleapis.com/eventpipe/8bb9e771-a6c5-417e-b45e-ae03f0e8dcfd.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/3cefb651-f21b-47f9-8614-64516d1ab376.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -2085,7 +2085,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/ea8957ae-9c91-4c8f-beef-6350562a8ed5",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/ea8957ae-9c91-4c8f-beef-6350562a8ed5",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2139,7 +2139,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/a669b667-fc1c-4acc-8cf3-fe3d06976ca2",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/a669b667-fc1c-4acc-8cf3-fe3d06976ca2",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2202,7 +2202,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/619dcbf1-bb72-42d3-8982-de49305e557e",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/619dcbf1-bb72-42d3-8982-de49305e557e",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2263,7 +2263,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/0e1c24eb-7278-44d5-914d-8542821f7f9d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/0e1c24eb-7278-44d5-914d-8542821f7f9d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2322,7 +2322,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/697d7e7a-508b-4bfe-b8ee-6dfb6deb79b8",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/697d7e7a-508b-4bfe-b8ee-6dfb6deb79b8",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2352,7 +2352,7 @@
       "postal": "32821",
       "lat": 28.40601348876953,
       "lng": -81.4691390991211,
-      "thumb": "https://storage.googleapis.com/eventpipe/700f0f8f-187d-4954-9b69-b67e9502e3e3.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/ef6d23fe-f443-48ec-b11d-11ad4fd3aadf.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -2401,7 +2401,7 @@
         }
       ],
       "roomCount": 3,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/0861926d-6037-4cd5-b150-b323258064c8",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/0861926d-6037-4cd5-b150-b323258064c8",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2472,7 +2472,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/06496569-d772-437f-8e16-554b031bc09b",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/06496569-d772-437f-8e16-554b031bc09b",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2542,7 +2542,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/937c6bed-3380-410f-b242-a92c8f604ac2",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/937c6bed-3380-410f-b242-a92c8f604ac2",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2600,7 +2600,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/a74f4789-29c4-400d-9c0d-9ebbd210e534",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/a74f4789-29c4-400d-9c0d-9ebbd210e534",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2663,7 +2663,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/3a615afd-065f-4f32-b29c-97c2d7f69a92",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/3a615afd-065f-4f32-b29c-97c2d7f69a92",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2713,7 +2713,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/8abee804-1261-4964-aab1-e5dc3daaeb26",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/8abee804-1261-4964-aab1-e5dc3daaeb26",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2767,7 +2767,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/abcce499-a8f9-45fb-95c7-e49a469b5544",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/abcce499-a8f9-45fb-95c7-e49a469b5544",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2823,7 +2823,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/57597e00-3b12-4ecd-97b3-0f09022c030d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/57597e00-3b12-4ecd-97b3-0f09022c030d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2876,7 +2876,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/dd99278c-5c9d-4218-8ba8-e1ecbcf83803",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/dd99278c-5c9d-4218-8ba8-e1ecbcf83803",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2937,7 +2937,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/939a0306-dce0-4db0-bad1-e9e6473d326a",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/939a0306-dce0-4db0-bad1-e9e6473d326a",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -2992,7 +2992,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/6bacceb2-0678-41fd-988a-b85c15dcc2ba",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/6bacceb2-0678-41fd-988a-b85c15dcc2ba",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3053,7 +3053,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/15e3e095-c35d-43b0-bf93-bfd636742d53",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/15e3e095-c35d-43b0-bf93-bfd636742d53",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3115,7 +3115,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/d0fed5af-2612-49f2-af27-3b7b84f9764d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/d0fed5af-2612-49f2-af27-3b7b84f9764d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3192,7 +3192,7 @@
         }
       ],
       "roomCount": 3,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/9e266acb-5e6d-44a7-95d0-73667753cbca",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/9e266acb-5e6d-44a7-95d0-73667753cbca",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3248,7 +3248,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/b62513bf-db93-495f-9d7b-a03186aa0349",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/b62513bf-db93-495f-9d7b-a03186aa0349",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3301,7 +3301,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/83951686-d827-416b-aa6f-8b721f3fee41",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/83951686-d827-416b-aa6f-8b721f3fee41",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3331,7 +3331,7 @@
       "postal": "32821",
       "lat": 28.388240814208984,
       "lng": -81.48201751708984,
-      "thumb": "https://storage.googleapis.com/eventpipe/8b5e8973-3ca1-46c3-a28e-96bc8777a741.jpeg",
+      "thumb": "https://storage.googleapis.com/eventpipe/65e22c56-8fad-4e66-b049-8e7c56357b5f.png",
       "amenities": [
         "Breakfast (fee $)",
         "Business Center",
@@ -3371,7 +3371,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/9f8e2712-c973-44bf-9801-a1d3121c19a9",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/9f8e2712-c973-44bf-9801-a1d3121c19a9",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3430,7 +3430,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/34bffaff-a8f5-4582-92de-67d4441b111d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/34bffaff-a8f5-4582-92de-67d4441b111d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3460,7 +3460,7 @@
       "postal": "32836-6234",
       "lat": 28.393173217773438,
       "lng": -81.49263763427734,
-      "thumb": "https://storage.googleapis.com/eventpipe/56c4c0d1-d9fd-40e6-82a3-1da466298833.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/68c4a9dc-ef93-4bb7-87a6-d269495ef8b7.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -3489,7 +3489,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/dc3cc9a7-27a7-4e1b-9c88-324e63c2d025",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/dc3cc9a7-27a7-4e1b-9c88-324e63c2d025",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3519,7 +3519,7 @@
       "postal": "32836",
       "lat": 28.392030715942383,
       "lng": -81.49323272705078,
-      "thumb": "https://storage.googleapis.com/eventpipe/3c5a4ebc-db1d-4c86-9543-47552e2056e2.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/9a6addea-1c36-4997-bce6-7908a512a38e.png",
       "amenities": [
         "Business Center",
         "Crib Available",
@@ -3550,7 +3550,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/4563d4b2-417f-46ad-bdb0-ed94e1aa19ac",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/4563d4b2-417f-46ad-bdb0-ed94e1aa19ac",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3580,7 +3580,7 @@
       "postal": "32826",
       "lat": 28.392919540405273,
       "lng": -81.49492645263672,
-      "thumb": "https://storage.googleapis.com/eventpipe/16dfa44f-6b52-423f-902c-c420a54c698c.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/b87b619f-89a7-4a86-8fdd-b5acf0ea58a6.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -3606,7 +3606,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/32bbd895-4678-4572-8926-5cb385534a34",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/32bbd895-4678-4572-8926-5cb385534a34",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3636,7 +3636,7 @@
       "postal": "32836",
       "lat": 28.39189338684082,
       "lng": -81.49600982666016,
-      "thumb": "https://storage.googleapis.com/eventpipe/aaceeb30-52c4-4668-97bf-aa64a6698063.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/a0581021-5188-46fb-894f-66f7756fa35c.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Fitness Facility",
@@ -3663,7 +3663,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/660ba9a8-5cf0-4b56-aa47-809e77a6002e",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/660ba9a8-5cf0-4b56-aa47-809e77a6002e",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3693,7 +3693,7 @@
       "postal": "32836",
       "lat": 28.39189338684082,
       "lng": -81.49600982666016,
-      "thumb": "https://storage.googleapis.com/eventpipe/f6610dc2-028b-4c81-8e49-9c54b89a7b08.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/ab3a3ecf-a1f4-4dc3-b934-8d1f8e3d3971.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -3726,7 +3726,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/bd153258-8735-4c90-8f91-0eabbe639720",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/bd153258-8735-4c90-8f91-0eabbe639720",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3788,7 +3788,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/59497b4c-1ee9-4618-84e8-f4223ad849f1",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/59497b4c-1ee9-4618-84e8-f4223ad849f1",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3858,7 +3858,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/f35edfab-dbe0-4da4-8b0c-78afb768ea1f",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/f35edfab-dbe0-4da4-8b0c-78afb768ea1f",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3915,7 +3915,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/2b8572d7-cabb-4eb6-af08-d1c34a7d91ac",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/2b8572d7-cabb-4eb6-af08-d1c34a7d91ac",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -3978,7 +3978,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/39057b12-2977-4715-a1fa-c4b55b183e65",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/39057b12-2977-4715-a1fa-c4b55b183e65",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4043,7 +4043,7 @@
           "maxOccupancy": 8,
           "avgNightly": 245.0,
           "totalAfterTax": 635.25,
-          "availableRooms": 4
+          "availableRooms": 3
         },
         {
           "name": "Two Bedroom King Bed and Two Single Beds with Full Sleeper Sofa",
@@ -4055,7 +4055,7 @@
         }
       ],
       "roomCount": 3,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/b1c20d50-f182-4e5b-9d43-53dc13b434cc",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/b1c20d50-f182-4e5b-9d43-53dc13b434cc",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4111,7 +4111,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/6c345a4f-4b3c-441d-b12e-3c5ee67bd3fe",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/6c345a4f-4b3c-441d-b12e-3c5ee67bd3fe",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4141,7 +4141,7 @@
       "postal": "32839",
       "lat": 28.484338760375977,
       "lng": -81.43476867675781,
-      "thumb": "https://storage.googleapis.com/eventpipe/e54ed125-2cb1-479e-8edb-03fd7d8cc66a.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/30bb55cc-9519-4407-aba1-1b28a17fa89f.png",
       "amenities": [
         "Fitness Facility",
         "Free Breakfast",
@@ -4164,7 +4164,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/14c15ea2-4ce6-4cde-bbe8-a22442e2cf07",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/14c15ea2-4ce6-4cde-bbe8-a22442e2cf07",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4221,7 +4221,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/e7275c36-04ef-478b-8a08-b7797f6c1678",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/e7275c36-04ef-478b-8a08-b7797f6c1678",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4283,7 +4283,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/21f2dbf3-3bfd-4146-8a3d-d4c92060f9a2",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/21f2dbf3-3bfd-4146-8a3d-d4c92060f9a2",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4313,7 +4313,7 @@
       "postal": "32836",
       "lat": 28.387767791748047,
       "lng": -81.50496673583984,
-      "thumb": "https://storage.googleapis.com/eventpipe/c163e523-a4cf-46e3-bb39-5bafb59181d9.jpg",
+      "thumb": "https://storage.googleapis.com/eventpipe/7b8fe61f-d928-4600-80be-52a95deda730.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -4343,7 +4343,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/95f94538-0eca-4b56-87fa-380765a9b441",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/95f94538-0eca-4b56-87fa-380765a9b441",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4404,7 +4404,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/425ba533-f8e1-4415-9cf5-f728324fbe64",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/425ba533-f8e1-4415-9cf5-f728324fbe64",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4434,7 +4434,7 @@
       "postal": "32821",
       "lat": 28.37236785888672,
       "lng": -81.50271606445312,
-      "thumb": "https://storage.googleapis.com/eventpipe/9b70706a-f38d-4076-b249-979e9f4aaa56.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/5b8d3c52-745f-4289-b810-58486ab9da72.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -4482,7 +4482,7 @@
         }
       ],
       "roomCount": 3,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/7f66e90b-d108-4aa5-8350-b4ec2fe0a318",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/7f66e90b-d108-4aa5-8350-b4ec2fe0a318",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4543,7 +4543,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/1316f4de-bc74-4b42-b261-0a4c0461572b",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/1316f4de-bc74-4b42-b261-0a4c0461572b",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4602,7 +4602,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/ee9fb4db-b42c-4bc1-aaed-51b835e3aa64",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/ee9fb4db-b42c-4bc1-aaed-51b835e3aa64",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4632,7 +4632,7 @@
       "postal": "32821",
       "lat": 28.378023147583008,
       "lng": -81.50213623046875,
-      "thumb": "https://storage.googleapis.com/eventpipe/72a8f48b-3250-4cf6-aec1-4914006d81f4.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/395c952b-ed1b-4516-bc26-18c563fd1a42.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "ATM On-site",
@@ -4668,7 +4668,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/1fefdd13-ffe4-4242-b741-5abfa539be4f",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/1fefdd13-ffe4-4242-b741-5abfa539be4f",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4725,7 +4725,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/af9e317e-7428-4bdb-8743-298b1c74e116",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/af9e317e-7428-4bdb-8743-298b1c74e116",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4784,7 +4784,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/60cefbf4-185d-444c-ba41-303c7dc7e848",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/60cefbf4-185d-444c-ba41-303c7dc7e848",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4841,7 +4841,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/65beafdd-3f8f-47d1-b451-156b0c7118dd",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/65beafdd-3f8f-47d1-b451-156b0c7118dd",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -4871,7 +4871,7 @@
       "postal": "32830",
       "lat": 28.376684188842773,
       "lng": -81.50682067871094,
-      "thumb": "https://storage.googleapis.com/eventpipe/26a8db7c-f66b-42c4-8a8d-316740a5d70c.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/aeb9fe16-ffed-4b56-a7ef-f69869c6e06d.png",
       "amenities": [
         "Breakfast (fee $)",
         "Business Center",
@@ -4897,7 +4897,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/0448bc58-79cd-472d-aafb-7d9163cff9cb",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/0448bc58-79cd-472d-aafb-7d9163cff9cb",
       "customBanner": null
     },
     {
@@ -4975,7 +4975,7 @@
         }
       ],
       "roomCount": 3,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/77ec2cca-e2f6-4b78-bcea-1b1327f58cd4",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/77ec2cca-e2f6-4b78-bcea-1b1327f58cd4",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5044,7 +5044,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/3a09f642-e97d-4c0f-b6b5-9064ded981c0",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/3a09f642-e97d-4c0f-b6b5-9064ded981c0",
       "customBanner": null
     },
     {
@@ -5099,7 +5099,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/7f4dc756-ad46-43b5-9b67-84fe1b79cf29",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/7f4dc756-ad46-43b5-9b67-84fe1b79cf29",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5153,7 +5153,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/2aae8dc9-361e-4e0a-a1e6-dcf12dacfb2d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/2aae8dc9-361e-4e0a-a1e6-dcf12dacfb2d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5220,7 +5220,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/1d526e17-5125-41f0-96de-c5afa286c436",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/1d526e17-5125-41f0-96de-c5afa286c436",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5293,7 +5293,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/bbf1aed1-a812-4bb8-ae71-c498340c2cc4",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/bbf1aed1-a812-4bb8-ae71-c498340c2cc4",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5359,7 +5359,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/6fcf7d7a-b8ae-4117-a207-e1bd42332086",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/6fcf7d7a-b8ae-4117-a207-e1bd42332086",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5422,7 +5422,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/fcc65bbd-f52c-4d33-aa23-6cd0281917e7",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/fcc65bbd-f52c-4d33-aa23-6cd0281917e7",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5478,7 +5478,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/28bba283-7072-4b2d-b0a9-2120a85a4166",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/28bba283-7072-4b2d-b0a9-2120a85a4166",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5508,7 +5508,7 @@
       "postal": "34746-5522",
       "lat": 28.338489532470703,
       "lng": -81.48306274414062,
-      "thumb": "https://storage.googleapis.com/eventpipe/f34566a3-cbf5-4feb-8c6b-5e54ce7948f8.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/12baf17c-f7ab-4a6e-a705-6d5ca9d18eb9.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -5542,7 +5542,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/6cc9c918-854b-4b55-a4ea-79da04202aa0",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/6cc9c918-854b-4b55-a4ea-79da04202aa0",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5599,7 +5599,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/2a8dd9ba-c6f1-4971-b65b-391f4fc4dc50",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/2a8dd9ba-c6f1-4971-b65b-391f4fc4dc50",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5629,7 +5629,7 @@
       "postal": "34746",
       "lat": 28.331789016723633,
       "lng": -81.48880004882812,
-      "thumb": "https://storage.googleapis.com/eventpipe/4d8a9acf-54d3-4817-85e9-499b5a6041ce.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/c96cccfd-1d99-462a-a915-030aa02ce3e7.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -5654,7 +5654,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/4e878eae-fcfb-42f1-85cd-2bafa4646c28",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/4e878eae-fcfb-42f1-85cd-2bafa4646c28",
       "customBanner": null
     },
     {
@@ -5703,7 +5703,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/72029d03-1b0a-4b44-8f7c-2dd44dcb7ab2",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/72029d03-1b0a-4b44-8f7c-2dd44dcb7ab2",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5733,7 +5733,7 @@
       "postal": "32821",
       "lat": 28.358320236206055,
       "lng": -81.53494262695312,
-      "thumb": "https://storage.googleapis.com/eventpipe/d9867dac-0769-42e7-8463-2262feb9f98e.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/63a5aadb-3982-4c80-a084-784743f9dd34.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -5759,7 +5759,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/0309b691-d1da-4901-ab1e-d843c934aceb",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/0309b691-d1da-4901-ab1e-d843c934aceb",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5789,7 +5789,7 @@
       "postal": "34747",
       "lat": 28.336091995239258,
       "lng": -81.53085327148438,
-      "thumb": "https://storage.googleapis.com/eventpipe/a73a347e-5d60-4349-9ec6-a9af1b974ed0.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/04ec349a-a797-4816-9b08-79914834498d.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Arcade",
@@ -5815,7 +5815,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/3a2bc082-c2a8-479f-b555-0b1cd6a8685d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/3a2bc082-c2a8-479f-b555-0b1cd6a8685d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5845,7 +5845,7 @@
       "postal": "32812",
       "lat": 28.46107292175293,
       "lng": -81.31380462646484,
-      "thumb": "https://storage.googleapis.com/eventpipe/e22c2870-db60-46c0-8471-4300c16a7fa5.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/e54c6107-0e35-4aa4-8d91-6ab7757bf9a3.jpg",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -5873,7 +5873,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/311110eb-f6c2-48a1-a5f5-2672755db00d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/311110eb-f6c2-48a1-a5f5-2672755db00d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5939,7 +5939,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/800deb79-f96f-441b-adce-784a8ddf6f75",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/800deb79-f96f-441b-adce-784a8ddf6f75",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -5992,7 +5992,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/a181b7ad-24d3-4055-8ca9-6a4d9a73c3e4",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/a181b7ad-24d3-4055-8ca9-6a4d9a73c3e4",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6050,7 +6050,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/91f9bab4-9402-48d8-868a-ff5013dcb740",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/91f9bab4-9402-48d8-868a-ff5013dcb740",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6080,7 +6080,7 @@
       "postal": "34747",
       "lat": 28.341045379638672,
       "lng": -81.6082992553711,
-      "thumb": "https://storage.googleapis.com/eventpipe/54865f9f-413f-406b-a10c-516be183b6fd.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/fbd54102-9bc8-4d54-881a-dade90337923.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -6114,7 +6114,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/ad62e754-529e-4594-831e-85d56e0eb234",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/ad62e754-529e-4594-831e-85d56e0eb234",
       "customBanner": null
     },
     {
@@ -6144,7 +6144,7 @@
       "postal": "34747",
       "lat": 28.341094970703125,
       "lng": -81.6115951538086,
-      "thumb": "https://storage.googleapis.com/eventpipe/27e5bea8-8b70-4a9b-96a6-33ba59adc425.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/5d941197-ace5-465e-931b-3be9b9af2ae0.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -6166,7 +6166,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/f6bea670-a999-4371-a87f-0a35b790a2fb",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/f6bea670-a999-4371-a87f-0a35b790a2fb",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6196,7 +6196,7 @@
       "postal": "34787",
       "lat": 28.36097526550293,
       "lng": -81.6515884399414,
-      "thumb": "https://storage.googleapis.com/eventpipe/23277d8a-f61f-48ed-b08b-8be9ac52e9a4.jpeg",
+      "thumb": "https://storage.googleapis.com/eventpipe/f1effb5d-aac3-46f7-85c5-4e2327ea1289.jpeg",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Arcade",
@@ -6247,7 +6247,7 @@
         }
       ],
       "roomCount": 3,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/2410c43d-1690-4f4c-a992-5b4d646354f0",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/2410c43d-1690-4f4c-a992-5b4d646354f0",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6305,7 +6305,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/075777e7-700f-425d-b580-014822abf8d2",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/075777e7-700f-425d-b580-014822abf8d2",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6368,7 +6368,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/2761edc9-6ff2-4c94-80eb-d44d1d6c3bbd",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/2761edc9-6ff2-4c94-80eb-d44d1d6c3bbd",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6419,7 +6419,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/c5884b27-2986-4ef5-a8fc-d868907bf28a",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/c5884b27-2986-4ef5-a8fc-d868907bf28a",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6481,7 +6481,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/b578a28f-f125-4ffe-a0ce-fb20e6b9cb9d",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/b578a28f-f125-4ffe-a0ce-fb20e6b9cb9d",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6544,7 +6544,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/80eaf335-8d3b-4904-9378-76a8d8cb2633",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/80eaf335-8d3b-4904-9378-76a8d8cb2633",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6595,7 +6595,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/3a15f642-b4e2-4c1b-aa99-0c616d6db0b3",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/3a15f642-b4e2-4c1b-aa99-0c616d6db0b3",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6654,7 +6654,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/ce15c6a2-e1d6-4342-b266-5c7bcec1679b",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/ce15c6a2-e1d6-4342-b266-5c7bcec1679b",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6718,7 +6718,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/8183d38a-639f-4b03-b41e-629b68ce61d3",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/8183d38a-639f-4b03-b41e-629b68ce61d3",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6778,7 +6778,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/c97fa99b-69e9-4ad7-a488-5ab49a09aabf",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/c97fa99b-69e9-4ad7-a488-5ab49a09aabf",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6838,7 +6838,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/0cc90042-e112-420a-9f56-b9d03437e19f",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/0cc90042-e112-420a-9f56-b9d03437e19f",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6893,7 +6893,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/3bee57cc-fdf3-4f19-ac02-5b2d24866522",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/3bee57cc-fdf3-4f19-ac02-5b2d24866522",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6953,7 +6953,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/3875fbc6-a769-408d-a21f-0d1b9f76c80e",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/3875fbc6-a769-408d-a21f-0d1b9f76c80e",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -6983,7 +6983,7 @@
       "postal": "32821",
       "lat": 28.419719696044922,
       "lng": -81.46916198730469,
-      "thumb": "https://storage.googleapis.com/eventpipe/98d2ef9f-818d-411c-b63d-78964f8e369d.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/60cd8547-4b57-43a9-80cc-0e490beb47d8.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Business Center",
@@ -7010,7 +7010,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/ea05c823-6e00-408d-b705-239a86ebec15",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/ea05c823-6e00-408d-b705-239a86ebec15",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7067,7 +7067,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/10186f21-1405-454b-a44b-d03fbb403d8c",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/10186f21-1405-454b-a44b-d03fbb403d8c",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7123,7 +7123,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/4c0d84ca-0f53-46f4-a853-5bcee435dce6",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/4c0d84ca-0f53-46f4-a853-5bcee435dce6",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7153,7 +7153,7 @@
       "postal": "32819",
       "lat": 28.42891502380371,
       "lng": -81.46886444091797,
-      "thumb": "https://storage.googleapis.com/eventpipe/331e461e-04ab-49b3-9c5f-46b5ba4a58c3.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/76774d36-7c4c-4a83-a1fc-26f982263416.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -7188,7 +7188,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/d59c0156-d0e9-46b4-8e55-cc36166b4ea8",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/d59c0156-d0e9-46b4-8e55-cc36166b4ea8",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7257,7 +7257,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/23fc13c7-d21a-4116-b985-056f9a20ed4a",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/23fc13c7-d21a-4116-b985-056f9a20ed4a",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7287,7 +7287,7 @@
       "postal": "32819",
       "lat": 28.44484519958496,
       "lng": -81.46747589111328,
-      "thumb": "https://storage.googleapis.com/eventpipe/ef290bfa-7bef-4061-8b29-2193e748c6e9.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/d7babb28-6e40-4f1e-8a0a-02d1a414083a.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Bicycle Rentals",
@@ -7322,7 +7322,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/4f03ca1e-5bac-46d3-b150-8ba561cb5c42",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/4f03ca1e-5bac-46d3-b150-8ba561cb5c42",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7397,7 +7397,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/b76f90be-bbe4-40cc-8002-415b31bbfe69",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/b76f90be-bbe4-40cc-8002-415b31bbfe69",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7464,7 +7464,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/8003987d-cb8f-48be-a253-470007861639",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/8003987d-cb8f-48be-a253-470007861639",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7494,7 +7494,7 @@
       "postal": "32819-8105",
       "lat": 28.42232894897461,
       "lng": -81.46137237548828,
-      "thumb": "https://storage.googleapis.com/eventpipe/a95dedcb-5b36-42cc-816e-8733bb4e933c.jpg",
+      "thumb": "https://storage.googleapis.com/eventpipe/9f21bdd3-f7ca-4e9d-a757-91ff9d380e57.jpg",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Convenience Store",
@@ -7514,7 +7514,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/c57b9b42-642d-48c6-8a3c-15639fb3d4cd",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/c57b9b42-642d-48c6-8a3c-15639fb3d4cd",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7544,7 +7544,7 @@
       "postal": "32819",
       "lat": 28.425094604492188,
       "lng": -81.45893859863281,
-      "thumb": "https://storage.googleapis.com/eventpipe/dd584db3-781e-4a8b-bc67-b6aaff497338.png",
+      "thumb": "https://storage.googleapis.com/eventpipe/db81f30b-875b-4fd6-ae86-43f610450c85.png",
       "amenities": [
         "100% Smoke-Free Hotel",
         "Breakfast (fee $)",
@@ -7580,7 +7580,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/a90c1484-ef45-4d08-95d0-effd424d4dd9",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/a90c1484-ef45-4d08-95d0-effd424d4dd9",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7641,7 +7641,7 @@
         }
       ],
       "roomCount": 2,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/5ddc35db-bae4-4508-9dd9-ec45ef5d7845",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/5ddc35db-bae4-4508-9dd9-ec45ef5d7845",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     },
     {
@@ -7704,7 +7704,7 @@
         }
       ],
       "roomCount": 1,
-      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa5d91124a92930e04eebd7/hotel/0ad18a43-3380-4ab7-b742-a95230c31087",
+      "link": "https://presto.eventpipe.com/event/dfc7b549-7bf9-4ba0-b048-eefe3613ba7a/shopKey/6aa6a30711ad652792154699/hotel/0ad18a43-3380-4ab7-b742-a95230c31087",
       "customBanner": "Additional non-refundable upfront per night costs are required for this hotel through Team Travel Source."
     }
   ]
